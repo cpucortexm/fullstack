@@ -1,3 +1,6 @@
 [submodule "2-project-website"]
 	path = 2-project-website
 	url = https://github.com/cpucortexm/2-project-website.git
+[submodule "4-project-landing-components"]
+	path = 4-project-landing-components
+	url = https://github.com/cpucortexm/4-project-landing-components.git
