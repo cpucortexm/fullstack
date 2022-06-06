@@ -4,3 +4,6 @@
 [submodule "4-project-landing-components"]
 	path = 4-project-landing-components
 	url = https://github.com/cpucortexm/4-project-landing-components.git
+[submodule "mini-twitter"]
+	path = mini-twitter
+	url = https://github.com/cpucortexm/mini-twitter.git
