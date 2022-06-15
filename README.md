@@ -7,3 +7,4 @@ Projects:
 
 1. REST API with Next.js
 2. Mini twitter
+3. Online Job board

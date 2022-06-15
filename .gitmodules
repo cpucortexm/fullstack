@@ -7,3 +7,6 @@
 [submodule "mini-twitter"]
 	path = mini-twitter
 	url = https://github.com/cpucortexm/mini-twitter.git
+[submodule "online-job-board"]
+	path = online-job-board
+	url = https://github.com/cpucortexm/online-job-board.git
