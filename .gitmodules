@@ -10,3 +10,6 @@
 [submodule "online-job-board"]
 	path = online-job-board
 	url = https://github.com/cpucortexm/online-job-board.git
+[submodule "reddit-clone"]
+	path = reddit-clone
+	url = https://github.com/cpucortexm/reddit-clone
