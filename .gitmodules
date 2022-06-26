@@ -13,3 +13,6 @@
 [submodule "reddit-clone"]
 	path = reddit-clone
 	url = https://github.com/cpucortexm/reddit-clone
+[submodule "youtube-clone"]
+	path = youtube-clone
+	url = https://github.com/cpucortexm/youtube-clone.git

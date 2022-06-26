@@ -1,9 +1,9 @@
 # fullstack
 
 git submodule add https://github.com/cpucortexm/2-project-website.git
-git add .gitsubmodules README
+git add .gitmodules README.md
 git commit -m "msg"
-git push .gitsubmodules
+git push .gitmodules
 
 Projects:
 
@@ -11,3 +11,4 @@ Projects:
 2. Mini twitter
 3. Online Job board
 4. reddit-clone
+5. youtube-clone
