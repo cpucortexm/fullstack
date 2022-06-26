@@ -3,7 +3,7 @@
 git submodule add https://github.com/cpucortexm/2-project-website.git
 git add .gitmodules README.md
 git commit -m "msg"
-git push .gitmodules
+git push .gitmodules README.md
 
 Projects:
 
